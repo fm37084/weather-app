@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_CONTAINER_REGISTRY: "webage"
+  AZURE_CONTAINER_REGISTRY: "fredRegistry1"
   CONTAINER_NAME: "weather-app/weather-app"
   RESOURCE_GROUP: "labResourceGroup"
   CLUSTER_NAME: "myAKSCluster"
